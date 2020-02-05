@@ -1,0 +1,37 @@
+.background-flags {
+  width: 120%;
+  height: 110%;
+  margin: -50px;
+  position: fixed;
+  z-index: -1;
+  background-color: #621055;
+}
+
+.flag-section {
+  width: 100%;
+}
+
+.purple {
+  height: 40%;
+  background-color: #621055;
+}
+
+.plum {
+  height: 30%;
+  background-color: #B52B65;
+}
+
+.nectarine {
+  height: 15%;
+  background-color: #ED6663;
+}
+
+.peach {
+  height: 10%;
+  background-color: #FFA372;
+}
+
+/*body {
+  margin: 0 !important;
+  margin-top: 0 !important;
+}*/
